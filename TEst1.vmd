@@ -1,0 +1,32 @@
+<module>
+<name>TEst1</name
+<body>
+</body>
+</body>
+</body>
+</body>
+<port>
+	<ID>0</ID>
+	<nameport>CLK</nameport>
+	<width>1</width>
+	<direct>input</direct>
+</port>
+<port>
+	<ID>1</ID>
+	<nameport>RESET</nameport>
+	<width>1</width>
+	<direct>input</direct>
+</port>
+<port>
+	<ID>2</ID>
+	<nameport>A</nameport>
+	<width>1</width>
+	<direct>input</direct>
+</port>
+<port>
+	<ID>3</ID>
+	<nameport>B</nameport>
+	<width>1</width>
+	<direct>output</direct>
+</port>
+</module>
